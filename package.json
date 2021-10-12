@@ -1,0 +1,17 @@
+{
+  "name": "laravel-mix-todo",
+  "version": "0.1.0",
+  "description": "A quick laravel-mix plugin for adding todo support",
+  "main": "index.js",
+  "author": "tyler36 <s.hendrix@iqnet.co.jp>",
+  "license": "MIT",
+  "keywords": ["laravel", "laravel mix", "mix", "todo"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler36/laravel-mix-todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tyler36/laravel-mix-todo/issues"
+  },
+  "homepage": "https://github.com/tyler36/laravel-mix-todo#readme"
+}
